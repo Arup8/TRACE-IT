@@ -53,7 +53,7 @@ const Hero = () => {
         <div className="main-title">
           <div className="intro">
             <h1>
-              <small className="text-muted">Introducing</small>
+              <small className="text-muted">Introducing...</small>
             </h1>
           </div>
           <img src={introrGif} className="trace-logo" alt="logo" srcSet="" />

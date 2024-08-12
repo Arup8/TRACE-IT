@@ -1,10 +1,24 @@
-import React from 'react'
-import "./Cta.css"
+import React from "react";
+import "./Cta.css";
 
-function Cta() {
-  return (
-    <div>Cta</div>
-  )
-}
+const Cta = () => {
+    return (
+        <div className="cta">
+            <div className="cta-content container">
+                <div className="cta-heading">Don't forget to register for an unforgettable event experience...</div>
+                <div className="cta-heading">See you all there!</div>
+                <div className="main-btn">
+                    <a
+                        href="https://forms.gle/vzjQRaXUKWnfaThG8"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
+                        Register Now &gt;
+                    </a>
+                </div>
+            </div>
+        </div>
+    );
+};
 
-export default Cta
+export default Cta;

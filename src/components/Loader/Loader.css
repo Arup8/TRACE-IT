@@ -11,7 +11,11 @@
   }
   
   
-  .loader {
+  /* .loader {
     width: 888px;
+    height: 500px;
+  } */
+  .loader {
+    width: 640px;
     height: 500px;
   }

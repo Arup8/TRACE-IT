@@ -48,7 +48,12 @@ function Navbar() {
             </a>
           </li>
           <li className="nav-item active">
-            <a className="nav-link" href="#contact-us">
+            <a className="nav-link" href="#agenda">
+              Schedule & Agenda
+            </a>
+          </li>
+          <li className="nav-item active">
+            <a className="nav-link" href="#contact">
               Contact Us
             </a>
           </li>
