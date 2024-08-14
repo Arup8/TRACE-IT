@@ -9,7 +9,13 @@
     color: white;
     border: 2px solid transparent;
     animation: glow 2s ease-in-out infinite;
+
+    /* transition: transform 0.3s ease, box-shadow 0.3s ease; */
+    /* transition: transform 0.1s ease-out; */
+
+    transition: transform 0.1s ease-out, box-shadow 0.1s ease-out;
 }
+
 
 @keyframes glow {
     0% {

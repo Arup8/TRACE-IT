@@ -49,6 +49,24 @@
     width: 100%;
 }
 
+.navbar .main-btn{
+    font-size: 0.9rem;
+    padding: 0.5rem 1.4rem;
+}
+
+.nav-btn{
+    /* margin-left: 8px; */
+    margin-top: 5px;
+    margin-right: 4px;
+}
+
+.follow-btn1{
+    font-size: 0.9rem;
+    padding: 0.5rem 1.4rem;
+    /* margin-left: 4px; */
+    margin-top: 6px;
+}
+
 @media (min-width: 768px) {
     .nav-link::after {
         content: '';

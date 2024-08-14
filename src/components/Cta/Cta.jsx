@@ -9,11 +9,20 @@ const Cta = () => {
                 <div className="cta-heading">See you all there!</div>
                 <div className="main-btn">
                     <a
-                        href="https://forms.gle/vzjQRaXUKWnfaThG8"
+                        href="https://forms.gle/nEYgrjLcSym2vAVP9"
                         target="_blank"
                         rel="noreferrer"
                     >
-                        Register Now &gt;
+                        Register Now 🫵 &gt;
+                    </a>
+                </div>
+                <div className="follow-btn1">
+                    <a
+                        href="https://www.instagram.com/invites/contact/?igsh=kvhochijqkt&utm_content=vgr03cd"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
+                        Follow Us 😎 &gt;
                     </a>
                 </div>
             </div>

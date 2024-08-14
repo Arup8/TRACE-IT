@@ -58,6 +58,24 @@ function Navbar() {
             </a>
           </li>
         </ul>
+          <div className="navlink main-btn nav-btn">
+            <a
+              href="https://forms.gle/nEYgrjLcSym2vAVP9"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Register
+            </a>
+          </div>
+          <div className="follow-btn1">
+                    <a
+                        href="https://www.instagram.com/invites/contact/?igsh=kvhochijqkt&utm_content=vgr03cd"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
+                        Follow Us 😎
+                    </a>
+                </div>
       </div>
     </nav>
   );

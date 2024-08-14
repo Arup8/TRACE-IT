@@ -27,11 +27,11 @@ const Rules = () => {
                 </div>
                 <div className="main-btn">
                     <a
-                        href="https://forms.gle/vzjQRaXUKWnfaThG8"
+                        href="https://forms.gle/nEYgrjLcSym2vAVP9"
                         target="_blank"
                         rel="noreferrer"
                     >
-                        Register Now &gt;
+                        Register Now 🫵 &gt;
                     </a>
                 </div>
             </div>

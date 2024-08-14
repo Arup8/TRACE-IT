@@ -52,6 +52,10 @@
     animation: glow 2s ease-in-out infinite;
 }
 
+/* .main-btn{
+    margin-top: 7px;
+} */
+
 @keyframes glow {
     0% {
         border-color: #ffc107;

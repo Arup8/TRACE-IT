@@ -60,14 +60,24 @@ const Hero = () => {
           <span>
             <h4>A technical event by the IT Department of MCKVIE</h4>
           </span>
-          <div className="btn-div">
+          {/* <div className="btn-div">
             <a
-              href="https://docs.google.com/forms/d/e/1FAIpQLSf5c3waPJAaVx8kxR3dkwzTOXwj0bbFj7K2lyznkzmgeIvJig/viewform"
+              href="https://forms.gle/nEYgrjLcSym2vAVP9"
+              target="blank"
               className="btn btn-success"
             >
               Register Now &gt;
             </a>
-          </div>
+          </div> */}
+          <div className="main-btn">
+                    <a
+                        href="https://forms.gle/nEYgrjLcSym2vAVP9"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
+                        Register Now 👉 &gt;
+                    </a>
+                </div>
         </div>
 
         <div className="borderBox1">
