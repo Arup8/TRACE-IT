@@ -62,8 +62,12 @@ const Hero = () => {
           </span>
           {/* <div className="btn-div">
             <a
+<<<<<<< HEAD
               href="https://forms.gle/nEYgrjLcSym2vAVP9"
               target="blank"
+=======
+              href="https://forms.gle/nEYgrjLcSym2vAVP"
+>>>>>>> ae51d2d708b61479007eb6da6d20a6d241703923
               className="btn btn-success"
             >
               Register Now &gt;
