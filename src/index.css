@@ -88,7 +88,7 @@ img{
 }
 .tertiary-btn {
     display: inline-block;
-    background-color: var(--main-green);
+    background-color: #25D366;
     color: white;
     border-radius: 0.5rem;
     font-size: 1rem;
@@ -101,7 +101,7 @@ img{
 
 .tertiary-btn:hover{
     transition: all 0.25s ease-in-out;
-    background-color: var(--main-green-light);
+    background-color: #128C7E;
 }
 
   .follow-btn1 {
