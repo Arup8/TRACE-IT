@@ -16,16 +16,16 @@ const Contact = () => {
                         <span className="contact-heading">
                             Student In-Charges
                         </span>
-                        <div>ABC: +91 XXXXX XXXXX</div>
+                        <div>Sk Mahammad Afzal: +91 96791 86577 </div>
                         <div>Sreya Dhar: +91 97483 75528</div>
                         <div>Sanchari Pandey: +91 97498 15573</div>
-                        <div>XYZ: +91 XXXXX XXXXX</div>
+                        <div>Dipti Bhowmik: +91 90641 48052</div>
                     </div>
                     <div>
                         <span className="contact-heading">
                         Teacher Co-ordinater
                         </span>
-                        <div>Jayanti Mahata: +91 97325 26103</div>
+                        <div>Prof. Jayanti Mahata: +91 97325 26103</div>
                     </div>
                 </div>
             </div>

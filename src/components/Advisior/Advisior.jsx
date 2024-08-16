@@ -71,47 +71,46 @@
 
 import React, { useState, useEffect, useMemo } from "react";
 import "./Advisior.css";
-import member1 from "../../members/person.png";
+import member1 from "../../members/Sanjana Shaw.jpg";
+import member2 from "../../members/Poulomi Pal.jpeg";
+import member3 from "../../members/Debanjali Manna.jpeg";
+import member4 from "../../members/Chayan Gupta.jpeg";
+import member5 from "../../members/Ankita Sinha Ray.jpeg";
 
 const Advisior = () => {
   const membersArr = useMemo(
     () => [
       {
         id: 1,
-        name: "Person1",
+        name: "Sanjana Shaw",
         image: member1,
-        whatsappLink: "https://wa.me/+91XXXXX",
+        whatsappLink: "https://wa.me/+918240934380",
       },
       {
         id: 2,
-        name: "Person2",
-        image: member1,
-        whatsappLink: "https://wa.me/+91XXXXX",
+        name: "Poulomi Pal",
+        image: member2,
+        whatsappLink: "https://wa.me/+918100004112",
       },
       {
         id: 3,
-        name: "Person3",
-        image: member1,
-        whatsappLink: "https://wa.me/+91XXXXX",
+        name: "Debanjali Manna",
+        image: member3,
+        whatsappLink: "https://wa.me/+919163294833",
       },
       {
         id: 4,
-        name: "Person4",
-        image: member1,
-        whatsappLink: "https://wa.me/+91XXXXX",
+        name: "Chayan Gupta",
+        image: member4,
+        whatsappLink: "https://wa.me/+919330066202",
       },
       {
         id: 5,
-        name: "Person5",
-        image: member1,
-        whatsappLink: "https://wa.me/+91XXXXX",
+        name: "Ankita Sinha Ray",
+        image: member5,
+        whatsappLink: "https://wa.me/+919641726035",
       },
-      {
-        id: 6,
-        name: "Person6",
-        image: member1,
-        whatsappLink: "https://wa.me/+91XXXXX",
-      },
+     
     ],
     []
   );

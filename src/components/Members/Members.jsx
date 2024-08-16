@@ -162,77 +162,103 @@
 
 import React, { useState, useEffect, useMemo } from "react";
 import "./Members.css";
-import member1 from "../../members/person.png";
+import member1 from "../../members/Arup Maity.jpeg";
+import member2 from "../../members/Sk Mahammad Afzal.jpeg";
+import member3 from "../../members/Dipti Bhowmik.jpeg";
+import member4 from "../../members/Sreya Dhar.jpeg";
+import member5 from "../../members/Avik Sen.jpeg";
+import member6 from "../../members/Sreejit Chakraborty.jpg";
+import member7 from "../../members/Sarthak Mukherjee.jpeg";
+import member8 from "../../members/Sayan sett.jpeg";
+import member9 from "../../members/Arpitha majee.jpeg";
+import member10 from "../../members/Tiyasa Saha.jpeg";
+import member11 from "../../members/Sanchari Pandey.jpg";
+import member12 from "../../members/Somnath Mondal.jpeg";
+import member13 from "../../members/Shivam Sinha.jpeg";
+
 
 const Members = () => {
   const membersArr = useMemo(
     () => [
       {
         id: 1,
-        name: "Person1",
+        name: "Arup Maity",
         image: member1,
-        whatsappLink: "https://wa.me/+91XXXXX",
+        whatsappLink: "https://wa.me/+919123927177",
       },
       {
         id: 2,
-        name: "Person2",
-        image: member1,
-        whatsappLink: "https://wa.me/+91XXXXX",
+        name: "Sk Mahammad Afzal",
+        image: member2,
+        whatsappLink: "https://wa.me/+919679186577",
       },
       {
         id: 3,
-        name: "Person3",
-        image: member1,
-        whatsappLink: "https://wa.me/+91XXXXX",
+        name: "Dipti Bhowmik",
+        image: member3,
+        whatsappLink: "https://wa.me/+919064148052",
       },
       {
         id: 4,
-        name: "Person4",
-        image: member1,
-        whatsappLink: "https://wa.me/+91XXXXX",
+        name: "Sreya Dhar",
+        image: member4,
+        whatsappLink: "https://wa.me/+919748375528",
       },
       {
         id: 5,
-        name: "Person5",
-        image: member1,
-        whatsappLink: "https://wa.me/+91XXXXX",
+        name: "Avik Sen",
+        image: member5,
+        whatsappLink: "https://wa.me/+917980727150",
       },
       {
         id: 6,
-        name: "Person6",
-        image: member1,
-        whatsappLink: "https://wa.me/+91XXXXX",
+        name: "Sreejit Chakraborty",
+        image: member6,
+        whatsappLink: "https://wa.me/+919831526476",
       },
       {
         id: 7,
-        name: "Person7",
-        image: member1,
-        whatsappLink: "https://wa.me/+91XXXXX",
+        name: "Sarthak Mukherjee",
+        image: member7,
+        whatsappLink: "https://wa.me/+917439499280",
       },
       {
         id: 8,
-        name: "Person8",
-        image: member1,
-        whatsappLink: "https://wa.me/+91XXXXX",
+        name: "Sayan sett",
+        image: member8,
+        whatsappLink: "https://wa.me/+917319207343",
       },
       {
         id: 9,
-        name: "Person9",
-        image: member1,
-        whatsappLink: "https://wa.me/+91XXXXX",
+        name: "Arpitha majee",
+        image: member9,
+        whatsappLink: "https://wa.me/+918100644613",
       },
       {
         id: 10,
-        name: "Person10",
-        image: member1,
-        whatsappLink: "https://wa.me/+91XXXXX",
+        name: "Tiyasa Saha",
+        image: member10,
+        whatsappLink: "https://wa.me/+919433077890",
       },
       {
         id: 11,
-        name: "Person11",
-        image: member1,
-        whatsappLink: "https://wa.me/+91XXXXX",
+        name: "Sanchari Pandey",
+        image: member11,
+        whatsappLink: "https://wa.me/+919749815573",
       },
+      {
+        id: 12,
+        name: "Somnath Mondal",
+        image: member12,
+        whatsappLink: "https://wa.me/+917980832102",
+      },
+      {
+        id: 13,
+        name: "Shivam Sinha",
+        image: member13,
+        whatsappLink: "https://wa.me/+919572844644",
+      },
+      
     ],
     []
   );
