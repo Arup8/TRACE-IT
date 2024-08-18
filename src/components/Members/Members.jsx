@@ -171,7 +171,7 @@ import member6 from "../../members/Sreejit Chakraborty.jpg";
 import member7 from "../../members/Sarthak Mukherjee.jpeg";
 import member8 from "../../members/Sayan sett.jpeg";
 import member9 from "../../members/Arpitha majee.jpeg";
-import member10 from "../../members/Tiyasa Saha.jpeg";
+import member10 from "../../members/Tiyasa saha.jpg";
 import member11 from "../../members/Sanchari Pandey.jpg";
 import member12 from "../../members/Somnath Mondal.jpeg";
 import member13 from "../../members/Shivam Sinha.jpeg";
