@@ -3,11 +3,7 @@ import EventCard from "../EventCard/EventCard";
 import "./About.css";
 
 import Quiz from "../../img/quiz.png";
-<<<<<<< HEAD
 import Innovative from "../../img/technology.png";
-=======
-import CodeHunt from "../../img/tracking.png";
->>>>>>> origin/main
 import BlindCoding from "../../img/blind.png";
 
 const About = () => {
@@ -50,13 +46,8 @@ const About = () => {
                         roundNum="3"
                         roundName="Tech Treek"
                         subtitle="(Top 5 teams from Round-2)"
-<<<<<<< HEAD
                         icon={Innovative}
                         description="Teams have 40 minutes to brainstorm and submit an idea on a given topic. Selected teams get 10 minutes to present their idea."
-=======
-                        icon={CodeHunt}
-                        description="Cracking hints and riddles will give access to the question paper that participants will need to solve on machines."
->>>>>>> origin/main
                     ></EventCard>
                 </div>
             </div>
