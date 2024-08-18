@@ -16,7 +16,7 @@ const About = () => {
                 </div>
                 <div className="about-text">
                     <div>
-                    <span class="traceDes">TRACE</span>.IT, is the annual technical event organized by the IT Department of MCKV Institute of Engineering, is set to deliver an exceptional experience for students looking to prove their mettle in the fields of critical thinking, vigilance, and curiosity. 
+                    <span class="traceDes">TRACE</span>.IT is the annual technical event organized by the IT Department of MCKV Institute of Engineering, is set to deliver an exceptional experience for students looking to prove their mettle in the fields of critical thinking, vigilance, and curiosity. 
                     </div>
                     <div>
                     <span class="traceDes">TRACE</span>.IT promises to deliver a unique opportunity to showcase your intellect and knowledge, and emerge as a true champion of your field.
@@ -40,7 +40,7 @@ const About = () => {
                         roundName="Shadow Code Sprint"
                         subtitle="(Top 20 teams from Round-1)"
                         icon={BlindCoding}
-                        description="Coding questions needed to be solved by participants which will be judged on the basis of speed( the screen will be hidden)."
+                        description="Coding questions need to be solved by participants which will be judged on the basis of speed( the screen will be hidden)."
                     ></EventCard>
                     <EventCard
                         roundNum="3"
