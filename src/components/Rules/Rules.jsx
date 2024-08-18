@@ -17,7 +17,11 @@ const Rules = () => {
                     </div>
                     <div>
                         Rs. 50 entry fee per team to be paid in cash at room no.
+<<<<<<< HEAD
                         A219 (2nd Floor) On successful registration and payment
+=======
+                        A210 (2nd Floor) On successful registration and payment
+>>>>>>> origin/main
                         you will be issued a receipt.
                     </div>
                     <div>

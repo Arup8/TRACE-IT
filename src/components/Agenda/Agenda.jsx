@@ -63,7 +63,11 @@ const Agenda = () => {
             </div>
             <div className="agenda-time">02:10 PM - 02:55 PM</div>
             <div className="agenda-name">Tech Treek</div>
+<<<<<<< HEAD
             Teams have 40 minutes to brainstorm and submit an idea on a given topic. Selected teams get 10 minutes to present their idea.
+=======
+            45 minutes round based on 3 given coding problems, where each problem unlocks the next problem.
+>>>>>>> origin/main
         </div>
         <div className="agenda-text">
             <div className="arrow-container">
