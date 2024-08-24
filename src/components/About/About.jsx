@@ -38,7 +38,7 @@ const About = () => {
                     <EventCard
                         roundNum="2"
                         roundName="Shadow Code Sprint"
-                        subtitle="(Top 20 teams from Round-1)"
+                        subtitle="(Top 20% teams from Round-1)"
                         icon={BlindCoding}
                         description="Coding questions need to be solved by participants which will be judged on the basis of speed( the screen will be hidden)."
                     ></EventCard>

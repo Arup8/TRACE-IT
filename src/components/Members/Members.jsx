@@ -176,6 +176,7 @@ import member11 from "../../members/Sanchari Pandey.jpg";
 import member12 from "../../members/Somnath Mondal.jpeg";
 import member13 from "../../members/Shivam Sinha.jpeg";
 import member14 from "../../members/Prince Kumar Barnwal.jpeg";
+import member15 from "../../members/Amar Kumar Singh.jpeg";
 
 
 
@@ -265,6 +266,12 @@ const Members = () => {
         name: "Prince Kumar Barnwal",
         image: member14,
         whatsappLink: "https://wa.me/+919631755708",
+      },
+      {
+        id: 15,
+        name: "Amar Kumar Singh",
+        image: member15,
+        whatsappLink: "https://wa.me/+918228893359",
       },
       
     ],
