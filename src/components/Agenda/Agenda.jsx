@@ -45,7 +45,7 @@ const Agenda = () => {
             <div className="arrow-container">
                 <div className="arrow-line"></div>
             </div>
-            <div className="agenda-time">01:00 PM - 01:30 PM</div>
+            <div className="agenda-time">01:00 PM - 01:45 PM</div>
             <div className="agenda-name">Shadow Code Sprint</div>
             Solve programming questions without showing what you typing
         </div>
@@ -53,7 +53,7 @@ const Agenda = () => {
             <div className="arrow-container">
                 <div className="arrow-line"></div>
             </div>
-            <div className="agenda-time">01:30 PM - 02:00 PM</div>
+            <div className="agenda-time">01:45 PM - 02:00 PM</div>
             <div className="agenda-name">Round 2 Results</div>
             Top 5 teams from Round-2.
         </div>
