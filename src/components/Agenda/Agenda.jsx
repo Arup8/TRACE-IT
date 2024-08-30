@@ -31,7 +31,7 @@ const Agenda = () => {
             </div>
             <div className="agenda-time">11:30 AM - 12:00 PM</div>
             <div className="agenda-name">Round 1 Results</div>
-            Top 20 teams from Round-1.
+            Top 20% teams from Round-1.
         </div>
         <div className="agenda-text">
             <div className="arrow-container">
